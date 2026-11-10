@@ -1,0 +1,59 @@
+{
+  "selectedOutfitPreset": 0,
+  "outfitData": [
+    {
+      "HatId": "hat_IceCreamMint",
+      "PetId": "pet_EmptyPet",
+      "SkinId": "skin_paws_foxGrey",
+      "VisorId": "visor_mira_card_red",
+      "NamePlateId": "nameplate_NoPlate"
+    },
+    {
+      "HatId": "hat_NoHat",
+      "PetId": "pet_EmptyPet",
+      "SkinId": "skin_None",
+      "VisorId": "visor_EmptyVisor",
+      "NamePlateId": "nameplate_NoPlate"
+    },
+    {
+      "HatId": "hat_NoHat",
+      "PetId": "pet_EmptyPet",
+      "SkinId": "skin_None",
+      "VisorId": "visor_EmptyVisor",
+      "NamePlateId": "nameplate_NoPlate"
+    },
+    {
+      "HatId": "hat_NoHat",
+      "PetId": "pet_EmptyPet",
+      "SkinId": "skin_None",
+      "VisorId": "visor_EmptyVisor",
+      "NamePlateId": "nameplate_NoPlate"
+    },
+    {
+      "HatId": "hat_NoHat",
+      "PetId": "pet_EmptyPet",
+      "SkinId": "skin_None",
+      "VisorId": "visor_EmptyVisor",
+      "NamePlateId": "nameplate_NoPlate"
+    },
+    {
+      "HatId": "hat_NoHat",
+      "PetId": "pet_EmptyPet",
+      "SkinId": "skin_None",
+      "VisorId": "visor_EmptyVisor",
+      "NamePlateId": "nameplate_NoPlate"
+    }
+  ],
+  "cheatData": [
+    {
+      "playerName": "Unsaidunit",
+      "hashPuid": "ea9dc962c",
+      "friendCode": "drollaide#2830",
+      "reason": "Invalid Lobby RPC: SetRole"
+    }
+  ],
+  "sickoData": [],
+  "aumData": [],
+  "knData": [],
+  "mmcData": []
+}
